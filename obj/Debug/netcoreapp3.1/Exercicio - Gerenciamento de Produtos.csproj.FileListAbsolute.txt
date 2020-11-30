@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\bin\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.exe
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\bin\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.deps.json
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\bin\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\bin\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\bin\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.dll
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\bin\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.pdb
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\obj\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\obj\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\obj\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\obj\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\obj\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.dll
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\obj\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.pdb
+C:\Users\Taila\Desktop\Dev\Exercicio - Gerenciamento de Produtos\obj\Debug\netcoreapp3.1\Exercicio - Gerenciamento de Produtos.genruntimeconfig.cache
